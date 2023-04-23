@@ -1,4 +1,5 @@
 *.md
+*.cache
 Debug/
 Release/
 x64/
